@@ -1,0 +1,21 @@
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REVO - Nick</title>
+    <link rel="stylesheet" href="~/css/site.css">
+</head>
+<body>
+    <div class="login-container">
+        <h2>REVO Sohbet Uygulamasına Hoş Geldiniz!</h2>
+        <form method="get" asp-action="Index" asp-controller="Chat">
+            <input type="text" name="username" placeholder="Nick gir..." required />
+            <button type="submit">Sohbete Katıl</button>
+        </form>
+    </div>
+</body>
+</html>
