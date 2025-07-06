@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RevoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c78c1cb2236d58d1a2c8c93f3e1afcbe36aec1d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("RevoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RevoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
